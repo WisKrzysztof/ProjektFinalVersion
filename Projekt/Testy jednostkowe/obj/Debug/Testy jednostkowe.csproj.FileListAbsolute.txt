@@ -1,0 +1,53 @@
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Testy jednostkowe.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Testy jednostkowe.pdb
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Projekt.exe
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Projekt.pdb
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Projekt.exe.config
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.csprojResolveAssemblyReference.cache
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.csproj.CopyComplete
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.pdb
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Testy jednostkowe.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Testy jednostkowe.pdb
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Projekt.exe
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Projekt.pdb
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\bin\Debug\Projekt.exe.config
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.csprojResolveAssemblyReference.cache
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.csproj.CopyComplete
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Testy jednostkowe.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Testy jednostkowe.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\bin\Debug\Projekt.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.csprojResolveAssemblyReference.cache
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\Testy jednostkowe\obj\Debug\Testy jednostkowe.pdb

@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Projekt</name>
+    </assembly>
+    <members>
+        <member name="T:Projekt.Barometer">
+            <summary>Class defines Barometer,measurer which measure the pressure. It inherits class measurer.</summary>
+        </member>
+        <member name="M:Projekt.Barometer.Measure">
+            <summary>Measures this instance.</summary>
+            <returns>Rounded pressure which is generated taking into account previously given accuracy.</returns>
+        </member>
+        <member name="T:Projekt.Hygrometer">
+            <summary>
+            Class defines Hygrometer,measurer which measure the humidity. It inherits class measurer.
+            </summary>
+        </member>
+        <member name="M:Projekt.Hygrometer.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.Hygrometer"/> class.</summary>
+        </member>
+        <member name="M:Projekt.Hygrometer.#ctor(System.String,System.Double)">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.Hygrometer"/> class.</summary>
+            <param name="s">The name of the measurer.</param>
+            <param name="a">The accurancy of the measurer.</param>
+        </member>
+        <member name="M:Projekt.Hygrometer.Measure">
+            <summary>Measures this instance.</summary>
+            <returns>Rounded humidity(in percentage so the value is between 0-1) which is generated taking into account previously given accuracy.</returns>
+        </member>
+        <member name="T:Projekt.Location">
+            <summary>Contains co-ordinates.</summary>
+        </member>
+        <member name="F:Projekt.Location.temperature">
+            <remarks>These are hidden, and not really in actual database. This is to simulate the actual weather, and is generated randomly upon creation of location.</remarks>
+        </member>
+        <member name="F:Projekt.Location.humidity">
+            <remarks> in Celcius.</remarks>
+        </member>
+        <member name="F:Projekt.Location.winds">
+            <remarks> in percent.</remarks> 
+        </member>
+        <member name="M:Projekt.Location.SimulateTimePassing">
+            <remarks> In hPa</remarks> 
+            <summary>Simulates the time passing. Changes randomly every value in every use of this Method as the time passes. </summary>
+            <remarks>Humidity has to have a value between 0 and 1.
+            Wind direction has to have a value between 0 and 360 degree.</remarks>
+        </member>
+        <member name="M:Projekt.Location.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.Location"/> class.</summary>
+        </member>
+        <member name="M:Projekt.Location.#ctor(System.Double,System.Double,System.Int32,System.String)">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.Location"/> class.</summary>
+            <param name="a">The Latitude.</param>
+            <param name="b">The Longitude.</param>
+            <param name="x">The Altitude.</param>
+        </member>
+        <member name="M:Projekt.Location.ToString">
+            <summary>Converts to string.</summary>
+            <returns>A <see cref="T:System.String"/> that represents this instance.</returns>
+        </member>
+        <member name="T:Projekt.Measurer">
+             <summary>Abstract class Measurer contains name, location and accurancy.Inherit ICloneable interface.</summary>
+            <remarks> Even though location is a pointer, we don't want to create a new location,
+             because Measurer doesn't contain the location, it only points to it.
+             That's why shallow copy works here.</remarks>
+        </member>
+        <member name="M:Projekt.Measurer.Clone">
+            <summary>Creates a new object that is a copy of the current instance.</summary>
+            <returns>A new object that is a copy of this instance.</returns>
+        </member>
+        <member name="M:Projekt.Measurer.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.Measurer"/> class.</summary>
+        </member>
+        <member name="M:Projekt.Measurer.#ctor(System.String,System.Double)">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.Measurer"/> class.</summary>
+            <param name="s">The name of the measurer.</param>
+            <param name="a">The accurancy of the measurer.</param>
+        </member>
+        <member name="T:Projekt.Model1">
+            <summary>
+             Your context has been configured to use a 'Model1' connection string from your application's 
+             configuration file (App.config or Web.config). By default, this connection string targets the 
+             'Projekt.Model1' database on your LocalDb instance. 
+             If you wish to target a different database and/or database provider, modify the 'Model1' 
+             connection string in the application configuration file.</summary>
+            <remarks> Add a DbSet for each entity type that you want to include in your model. For more information 
+             on configuring and using a Code First model, see http://go.microsoft.com/fwlink/?LinkId=390109. </remarks>
+        </member>
+        <member name="P:Projekt.Model1.StationListBaza">
+            <summary>Gets or sets the station list baza.</summary>
+            <value>The station list baza.</value>
+        </member>
+        <member name="T:Projekt.StationList">
+            <summary>Contains List of Weather Stations.</summary>
+        </member>
+        <member name="P:Projekt.StationList.StationListID">
+            <summary>Gets or sets the station list identifier.</summary>
+            <value>The station list identifier.</value>
+        </member>
+        <member name="M:Projekt.StationList.Add(Projekt.WeatherStation)">
+            <summary>Adds the specified Weather Station.</summary>
+            <param name="w">The Weather Station.</param>
+        </member>
+        <member name="M:Projekt.StationList.Remove(Projekt.WeatherStation)">
+            <summary>Removes the specified w.</summary>
+            <param name="w">The Weather Station.</param>
+        </member>
+        <member name="M:Projekt.StationList.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.StationList"/> class.</summary>
+        </member>
+        <member name="M:Projekt.StationList.SaveXML(System.String)">
+            <summary>Saves to XML.</summary>
+            <param name="filename">The filename.</param>
+        </member>
+        <member name="M:Projekt.StationList.LoadXML(System.String)">
+            <summary>Read from XML.</summary>
+            <param name="filename">The filename.</param>
+            <returns>Object of Station List.</returns>
+        </member>
+        <member name="M:Projekt.StationList.Clone">
+            <summary>Creates a new object that is a copy of the current instance.</summary>
+            <returns>A new object that is a copy of this instance.</returns>
+        </member>
+        <member name="M:Projekt.StationList.Sortuj">
+            <summary>Sort this instance.</summary>
+        </member>
+        <member name="M:Projekt.StationList.ZapiszDoBazy">
+            <summary>Save to database.</summary>
+        </member>
+        <member name="M:Projekt.StationList.WypiszListe">
+            <summary>Write list from database.</summary>
+        </member>
+        <member name="M:Projekt.StationList.MeasureAll">
+            <summary>Write full list of Weather Stations and its values.</summary>
+        </member>
+        <member name="M:Projekt.StationList.ToString">
+            <summary>Converts Station list to string.</summary>
+            <returns>A <see cref="T:System.String"/> that represents this instance.</returns>
+        </member>
+        <member name="T:Projekt.Thermometer">
+            <summary>Class defines Thermometer. It inherits class measurer and IMeasurable interface.</summary>
+        </member>
+        <member name="M:Projekt.Thermometer.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.Thermometer"/> class.</summary>
+        </member>
+        <member name="M:Projekt.Thermometer.#ctor(System.String,System.Double)">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.Thermometer"/> class.</summary>
+            <param name="s">The name of the measurer.</param>
+            <param name="a">The accurancy of the measurer.</param>
+        </member>
+        <member name="M:Projekt.Thermometer.Measure">
+            <summary>Measures this instance.</summary>
+            <returns>Rounded temperature which is generated taking into account previouslygiven accuracy.</returns>
+        </member>
+        <member name="T:Projekt.Wind">
+            <summary>Struct Wind contain its strength and direction (in degrees).</summary>
+        </member>
+        <member name="M:Projekt.Wind.#ctor(System.Double,System.Double)">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.Wind"/> struct.</summary>
+            <param name="a">Strength.</param>
+            <param name="b">The direction.</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:Projekt.WeatherStation" -->
+        <member name="P:Projekt.WeatherStation.WeatherStationID">
+            <summary>Gets or sets the weather station identifier.</summary>
+            <value>The weather station identifier.</value>
+        </member>
+        <member name="M:Projekt.WeatherStation.CompareTo(Projekt.WeatherStation)">
+            <summary>Compares to.</summary>
+            <param name="w">The Weather Station</param>
+            <returns>Int.</returns>
+        </member>
+        <member name="M:Projekt.WeatherStation.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.WeatherStation"/> class.</summary>
+        </member>
+        <member name="M:Projekt.WeatherStation.#ctor(System.String,Projekt.Location)">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.WeatherStation"/> class.</summary>
+            <param name="s">The name</param>
+            <param name="l">The Location</param>
+        </member>
+        <member name="M:Projekt.WeatherStation.Clone">
+            <summary>Creates a new object that is a copy of the current instance.</summary>
+            <returns>A new object that is a copy of this instance.</returns>
+        </member>
+        <member name="M:Projekt.WeatherStation.Insert(Projekt.Measurer)">
+            <summary>Inserts the specified Measurer.</summary>
+            <param name="m">The Measurer.</param>
+            <remarks>If there have been a measurer of this type already it is replaced and location of the ol measurer is changed to null.</remarks>
+        </member>
+        <member name="M:Projekt.WeatherStation.getTemperature">
+            <summary>Gets the temperature.</summary>
+            <returns>Temperature or null if there is no measurer.</returns>
+        </member>
+        <member name="M:Projekt.WeatherStation.getPressure">
+            <summary>Gets the pressure.</summary>
+            <returns>Pressure or null if there is no measurer.</returns>
+        </member>
+        <member name="M:Projekt.WeatherStation.getHumidity">
+            <summary>Gets the Humidity.</summary>
+            <returns>Humidity or null if there is no measurer.</returns>
+        </member>
+        <member name="M:Projekt.WeatherStation.getWind">
+            <summary>Gets the wind.</summary>
+            <returns>Wind or null if there is no measurer.</returns>
+        </member>
+        <member name="M:Projekt.WeatherStation.MeasureAll">
+            <summary>Create a new object of Weather.</summary>
+            <returns>Return Weather object.</returns>
+        </member>
+        <member name="T:Projekt.WindMeter">
+            <summary>Class defines WindMeter,measurer which measure the degree and strength of the wind. It inherits class measurer.</summary>
+        </member>
+        <member name="P:Projekt.WindMeter.DegAcc">
+            <summary>Gets or sets the degree accurancy.</summary>
+            <value>The degree accurancy.</value>
+        </member>
+        <member name="M:Projekt.WindMeter.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.WindMeter"/> class.</summary>
+        </member>
+        <member name="M:Projekt.WindMeter.#ctor(System.String,System.Double,System.Int32)">
+            <summary>Initializes a new instance of the <see cref="T:Projekt.WindMeter"/> class.</summary>
+            <param name="s">The name.</param>
+            <param name="a">Accurancy.</param>
+            <param name="b">Degree accurancy.</param>
+        </member>
+        <member name="M:Projekt.WindMeter.Measure">
+            <summary>Measures this instance.</summary>
+            <returns>Struct Wind which contains strength and direction.</returns>
+        </member>
+    </members>
+</doc>

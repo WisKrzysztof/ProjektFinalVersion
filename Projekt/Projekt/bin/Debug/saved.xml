@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StationList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StationListID>0</StationListID>
+  <list>
+    <WeatherStation>
+      <loc>
+        <Latitude>40</Latitude>
+        <Longitude>50</Longitude>
+        <Altitude>-200</Altitude>
+        <City>Wrocław</City>
+        <Temperature>26.321996737887151</Temperature>
+        <Humidity>0.43593625604917119</Humidity>
+        <Pressure>992</Pressure>
+        <Winds>
+          <strength>54.230797592192332</strength>
+          <direction>73.464090716775544</direction>
+        </Winds>
+      </loc>
+      <name>Wrocławska stacja</name>
+      <thermo>
+        <rnd />
+        <location>
+          <Latitude>40</Latitude>
+          <Longitude>50</Longitude>
+          <Altitude>-200</Altitude>
+          <City>Wrocław</City>
+          <Temperature>26.321996737887151</Temperature>
+          <Humidity>0.43593625604917119</Humidity>
+          <Pressure>992</Pressure>
+          <Winds>
+            <strength>54.230797592192332</strength>
+            <direction>73.464090716775544</direction>
+          </Winds>
+        </location>
+        <Name>Thermo 5000</Name>
+        <Acc>0.1</Acc>
+      </thermo>
+      <anemo>
+        <rnd />
+        <location>
+          <Latitude>40</Latitude>
+          <Longitude>50</Longitude>
+          <Altitude>-200</Altitude>
+          <City>Wrocław</City>
+          <Temperature>26.321996737887151</Temperature>
+          <Humidity>0.43593625604917119</Humidity>
+          <Pressure>992</Pressure>
+          <Winds>
+            <strength>54.230797592192332</strength>
+            <direction>73.464090716775544</direction>
+          </Winds>
+        </location>
+        <Name>Windy 8XXX</Name>
+        <Acc>0.1</Acc>
+        <DegAcc>2</DegAcc>
+      </anemo>
+      <hygro>
+        <rnd />
+        <location>
+          <Latitude>40</Latitude>
+          <Longitude>50</Longitude>
+          <Altitude>-200</Altitude>
+          <City>Wrocław</City>
+          <Temperature>26.321996737887151</Temperature>
+          <Humidity>0.43593625604917119</Humidity>
+          <Pressure>992</Pressure>
+          <Winds>
+            <strength>54.230797592192332</strength>
+            <direction>73.464090716775544</direction>
+          </Winds>
+        </location>
+        <Name>Ultrahygro</Name>
+        <Acc>0.01</Acc>
+      </hygro>
+      <WeatherStationID>0</WeatherStationID>
+      <Name>Wrocławska stacja</Name>
+      <Thermo>
+        <rnd />
+        <location>
+          <Latitude>40</Latitude>
+          <Longitude>50</Longitude>
+          <Altitude>-200</Altitude>
+          <City>Wrocław</City>
+          <Temperature>26.321996737887151</Temperature>
+          <Humidity>0.43593625604917119</Humidity>
+          <Pressure>992</Pressure>
+          <Winds>
+            <strength>54.230797592192332</strength>
+            <direction>73.464090716775544</direction>
+          </Winds>
+        </location>
+        <Name>Thermo 5000</Name>
+        <Acc>0.1</Acc>
+      </Thermo>
+      <Anemo>
+        <rnd />
+        <location>
+          <Latitude>40</Latitude>
+          <Longitude>50</Longitude>
+          <Altitude>-200</Altitude>
+          <City>Wrocław</City>
+          <Temperature>26.321996737887151</Temperature>
+          <Humidity>0.43593625604917119</Humidity>
+          <Pressure>992</Pressure>
+          <Winds>
+            <strength>54.230797592192332</strength>
+            <direction>73.464090716775544</direction>
+          </Winds>
+        </location>
+        <Name>Windy 8XXX</Name>
+        <Acc>0.1</Acc>
+        <DegAcc>2</DegAcc>
+      </Anemo>
+      <Hygro>
+        <rnd />
+        <location>
+          <Latitude>40</Latitude>
+          <Longitude>50</Longitude>
+          <Altitude>-200</Altitude>
+          <City>Wrocław</City>
+          <Temperature>26.321996737887151</Temperature>
+          <Humidity>0.43593625604917119</Humidity>
+          <Pressure>992</Pressure>
+          <Winds>
+            <strength>54.230797592192332</strength>
+            <direction>73.464090716775544</direction>
+          </Winds>
+        </location>
+        <Name>Ultrahygro</Name>
+        <Acc>0.01</Acc>
+      </Hygro>
+    </WeatherStation>
+    <WeatherStation>
+      <loc>
+        <Latitude>20</Latitude>
+        <Longitude>30</Longitude>
+        <Altitude>300</Altitude>
+        <City>Warszawa</City>
+        <Temperature>6.2723916546778717</Temperature>
+        <Humidity>0.84518423995244518</Humidity>
+        <Pressure>1006</Pressure>
+        <Winds>
+          <strength>78.727848958562987</strength>
+          <direction>141.00707798637779</direction>
+        </Winds>
+      </loc>
+      <name>Warszawska stacja</name>
+      <anemo>
+        <rnd />
+        <location>
+          <Latitude>20</Latitude>
+          <Longitude>30</Longitude>
+          <Altitude>300</Altitude>
+          <City>Warszawa</City>
+          <Temperature>6.2723916546778717</Temperature>
+          <Humidity>0.84518423995244518</Humidity>
+          <Pressure>1006</Pressure>
+          <Winds>
+            <strength>78.727848958562987</strength>
+            <direction>141.00707798637779</direction>
+          </Winds>
+        </location>
+        <Name>Windy 5XXX</Name>
+        <Acc>0.001</Acc>
+        <DegAcc>3</DegAcc>
+      </anemo>
+      <hygro>
+        <rnd />
+        <location>
+          <Latitude>20</Latitude>
+          <Longitude>30</Longitude>
+          <Altitude>300</Altitude>
+          <City>Warszawa</City>
+          <Temperature>6.2723916546778717</Temperature>
+          <Humidity>0.84518423995244518</Humidity>
+          <Pressure>1006</Pressure>
+          <Winds>
+            <strength>78.727848958562987</strength>
+            <direction>141.00707798637779</direction>
+          </Winds>
+        </location>
+        <Name>Uberhygro</Name>
+        <Acc>0.0001</Acc>
+      </hygro>
+      <WeatherStationID>0</WeatherStationID>
+      <Name>Warszawska stacja</Name>
+      <Anemo>
+        <rnd />
+        <location>
+          <Latitude>20</Latitude>
+          <Longitude>30</Longitude>
+          <Altitude>300</Altitude>
+          <City>Warszawa</City>
+          <Temperature>6.2723916546778717</Temperature>
+          <Humidity>0.84518423995244518</Humidity>
+          <Pressure>1006</Pressure>
+          <Winds>
+            <strength>78.727848958562987</strength>
+            <direction>141.00707798637779</direction>
+          </Winds>
+        </location>
+        <Name>Windy 5XXX</Name>
+        <Acc>0.001</Acc>
+        <DegAcc>3</DegAcc>
+      </Anemo>
+      <Hygro>
+        <rnd />
+        <location>
+          <Latitude>20</Latitude>
+          <Longitude>30</Longitude>
+          <Altitude>300</Altitude>
+          <City>Warszawa</City>
+          <Temperature>6.2723916546778717</Temperature>
+          <Humidity>0.84518423995244518</Humidity>
+          <Pressure>1006</Pressure>
+          <Winds>
+            <strength>78.727848958562987</strength>
+            <direction>141.00707798637779</direction>
+          </Winds>
+        </location>
+        <Name>Uberhygro</Name>
+        <Acc>0.0001</Acc>
+      </Hygro>
+    </WeatherStation>
+    <WeatherStation>
+      <loc>
+        <Latitude>14.678</Latitude>
+        <Longitude>-56.8003</Longitude>
+        <Altitude>456</Altitude>
+        <City>Kraków</City>
+        <Temperature>8.56225237649039</Temperature>
+        <Humidity>0.44746017197494403</Humidity>
+        <Pressure>1009</Pressure>
+        <Winds>
+          <strength>69.807520175263065</strength>
+          <direction>219.02044625348432</direction>
+        </Winds>
+      </loc>
+      <name>Krakowska stacja</name>
+      <thermo>
+        <rnd />
+        <location>
+          <Latitude>14.678</Latitude>
+          <Longitude>-56.8003</Longitude>
+          <Altitude>456</Altitude>
+          <City>Kraków</City>
+          <Temperature>8.56225237649039</Temperature>
+          <Humidity>0.44746017197494403</Humidity>
+          <Pressure>1009</Pressure>
+          <Winds>
+            <strength>69.807520175263065</strength>
+            <direction>219.02044625348432</direction>
+          </Winds>
+        </location>
+        <Name>Thermo 3000</Name>
+        <Acc>0.01</Acc>
+      </thermo>
+      <anemo>
+        <rnd />
+        <location>
+          <Latitude>14.678</Latitude>
+          <Longitude>-56.8003</Longitude>
+          <Altitude>456</Altitude>
+          <City>Kraków</City>
+          <Temperature>8.56225237649039</Temperature>
+          <Humidity>0.44746017197494403</Humidity>
+          <Pressure>1009</Pressure>
+          <Winds>
+            <strength>69.807520175263065</strength>
+            <direction>219.02044625348432</direction>
+          </Winds>
+        </location>
+        <Name>Windy 3XXX</Name>
+        <Acc>0.01</Acc>
+        <DegAcc>2</DegAcc>
+      </anemo>
+      <hygro>
+        <rnd />
+        <location>
+          <Latitude>14.678</Latitude>
+          <Longitude>-56.8003</Longitude>
+          <Altitude>456</Altitude>
+          <City>Kraków</City>
+          <Temperature>8.56225237649039</Temperature>
+          <Humidity>0.44746017197494403</Humidity>
+          <Pressure>1009</Pressure>
+          <Winds>
+            <strength>69.807520175263065</strength>
+            <direction>219.02044625348432</direction>
+          </Winds>
+        </location>
+        <Name>Superhygro</Name>
+        <Acc>0.001</Acc>
+      </hygro>
+      <WeatherStationID>0</WeatherStationID>
+      <Name>Krakowska stacja</Name>
+      <Thermo>
+        <rnd />
+        <location>
+          <Latitude>14.678</Latitude>
+          <Longitude>-56.8003</Longitude>
+          <Altitude>456</Altitude>
+          <City>Kraków</City>
+          <Temperature>8.56225237649039</Temperature>
+          <Humidity>0.44746017197494403</Humidity>
+          <Pressure>1009</Pressure>
+          <Winds>
+            <strength>69.807520175263065</strength>
+            <direction>219.02044625348432</direction>
+          </Winds>
+        </location>
+        <Name>Thermo 3000</Name>
+        <Acc>0.01</Acc>
+      </Thermo>
+      <Anemo>
+        <rnd />
+        <location>
+          <Latitude>14.678</Latitude>
+          <Longitude>-56.8003</Longitude>
+          <Altitude>456</Altitude>
+          <City>Kraków</City>
+          <Temperature>8.56225237649039</Temperature>
+          <Humidity>0.44746017197494403</Humidity>
+          <Pressure>1009</Pressure>
+          <Winds>
+            <strength>69.807520175263065</strength>
+            <direction>219.02044625348432</direction>
+          </Winds>
+        </location>
+        <Name>Windy 3XXX</Name>
+        <Acc>0.01</Acc>
+        <DegAcc>2</DegAcc>
+      </Anemo>
+      <Hygro>
+        <rnd />
+        <location>
+          <Latitude>14.678</Latitude>
+          <Longitude>-56.8003</Longitude>
+          <Altitude>456</Altitude>
+          <City>Kraków</City>
+          <Temperature>8.56225237649039</Temperature>
+          <Humidity>0.44746017197494403</Humidity>
+          <Pressure>1009</Pressure>
+          <Winds>
+            <strength>69.807520175263065</strength>
+            <direction>219.02044625348432</direction>
+          </Winds>
+        </location>
+        <Name>Superhygro</Name>
+        <Acc>0.001</Acc>
+      </Hygro>
+    </WeatherStation>
+  </list>
+  <Name>TVN meteo</Name>
+</StationList>

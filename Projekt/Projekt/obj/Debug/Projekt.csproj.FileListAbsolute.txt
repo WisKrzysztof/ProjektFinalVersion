@@ -1,0 +1,84 @@
+c:\users\ensis\documents\visual studio 2015\Projects\Projekt\Projekt\bin\Debug\Projekt.exe.config
+c:\users\ensis\documents\visual studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+c:\users\ensis\documents\visual studio 2015\Projects\Projekt\Projekt\bin\Debug\Projekt.exe
+c:\users\ensis\documents\visual studio 2015\Projects\Projekt\Projekt\bin\Debug\Projekt.pdb
+c:\users\ensis\documents\visual studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.exe
+c:\users\ensis\documents\visual studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Gabi\source\repos\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Gabi\source\repos\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Gabi\source\repos\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Gabi\source\repos\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Gabi\source\repos\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Gabi\source\repos\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Ania\Desktop\ProjektIplus_testy\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Ania\Desktop\ProjektIplus_testy\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Ania\Desktop\ProjektIplus_testy\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Ania\Desktop\ProjektIplus_testy\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Ania\Desktop\ProjektIplus_testy\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Ania\Desktop\ProjektIplus_testy\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Ania\Desktop\ProjektIplus_testy\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\bin\Debug\Projekt.xml
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\bin\Debug\Projekt.xml
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ensis\Downloads\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache

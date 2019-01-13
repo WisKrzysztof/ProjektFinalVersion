@@ -1,0 +1,149 @@
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe.config
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.pdb
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csprojResolveAssemblyReference.cache
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\App.g.cs
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.cache
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.lref
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.baml
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.g.resources
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.Properties.Resources.resources
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.GenerateResource.Cache
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.exe
+C:\Users\Ensis\Desktop\testy i projekt\testy i projekt\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe.config
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.exe
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.dll
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.pdb
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.xml
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csprojResolveAssemblyReference.cache
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\App.g.cs
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.cache
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.lref
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.baml
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.g.resources
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.Properties.Resources.resources
+C:\Users\Ensis\Desktop\testy i projekt\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.GenerateResource.Cache
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe.config
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.pdb
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.pdb
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe.config
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.xml
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csprojResolveAssemblyReference.cache
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\App.g.cs
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.cache
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.lref
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.baml
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.g.resources
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.Properties.Resources.resources
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.GenerateResource.cache
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.CopyComplete
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.exe
+C:\Users\Gabi\source\repos\AlmostFinished\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.pdb
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe.config
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.pdb
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.pdb
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe.config
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.xml
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csprojResolveAssemblyReference.cache
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\App.g.cs
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.cache
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.lref
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.baml
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.g.resources
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.Properties.Resources.resources
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.GenerateResource.cache
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.CopyComplete
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.exe
+C:\Users\Gabi\source\repos\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.pdb
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe.config
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.pdb
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.dll
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.pdb
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe.config
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.xml
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csprojAssemblyReference.cache
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\App.g.cs
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.cache
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.lref
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.baml
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.g.resources
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.Properties.Resources.resources
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.GenerateResource.cache
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.CoreCompileInputs.cache
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.CopyComplete
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.exe
+C:\Users\Ania\Desktop\PraawieGotowe\PraawieGotowe\Tofuckup\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.pdb
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe.config
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.pdb
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.dll
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.pdb
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe.config
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.xml
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csprojResolveAssemblyReference.cache
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\App.g.cs
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.cache
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.lref
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.baml
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.g.resources
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.Properties.Resources.resources
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.GenerateResource.cache
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.CoreCompileInputs.cache
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.CopyComplete
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.exe
+C:\Users\Jadzia\Desktop\Programowanie\c#\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe.config
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.exe
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.exe
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\WeatherWindow.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.exe
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.pdb
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\Projekt.xml
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.xml
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csprojResolveAssemblyReference.cache
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\App.g.cs
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.cache
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow_MarkupCompile.lref
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\MainWindow.baml
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.g.resources
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.Properties.Resources.resources
+C:\Users\Ensis\Downloads\Projekt\Projekt\WeatherWindow\obj\Debug\WeatherWindow.csproj.GenerateResource.Cache
